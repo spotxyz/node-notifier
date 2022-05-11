@@ -1,6 +1,6 @@
 {
   "name": "@spotxyz/node-notifier",
-  "version": "10.0.1",
+  "version": "10.0.1-2",
   "description": "A Node.js module for sending notifications on native Mac, Windows (post and pre 8) and Linux (or Growl as fallback)",
   "main": "index.js",
   "scripts": {
